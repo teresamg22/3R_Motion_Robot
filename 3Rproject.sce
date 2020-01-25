@@ -51,7 +51,7 @@ x2=L1*cos(theta1)
 y2=L1*sin(theta1)
 
 x3=x2+L2*cos(theta1+theta2)
-y3=y2+L1*sin(theta1+theta2)
+y3=y2+L2*sin(theta1+theta2)
 
 // Jacobian matrix
 
